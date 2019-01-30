@@ -43,14 +43,14 @@ npm start android
 ## ********************************************************
 ##  completed Installation on Windows by Kcod ,   above one it is okay to install on MacOS
 
-git clone https://github.com/BlueWallet/BlueWallet.git
+git clone https://github.com/BlueWallet/BlueWallet.git  <br />
 cd BlueWallet
-npm install --force            
-react-native link
--- operating Android Studio and open an emulator   // this mement doesn't have error when compilling android code
-npm start android                                 // this one for Daemon
+npm install --force   <br />          
+react-native link     <br />
+"operating Android Studio and open an emulator"   // this mement doesn't have error when compilling android code
+npm start android                                 // this one for Daemon <br />
 react-native run-android      
-
+## ********************************************************
 
 
 ## TESTS
