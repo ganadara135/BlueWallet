@@ -40,7 +40,7 @@ cd BlueWallet
 npm install
 npm start android
 ``` 
-
+## ********************************************************
 ##  completed Installation on Windows by Kcod ,   above one it is okay to install on MacOS
 
 git clone https://github.com/BlueWallet/BlueWallet.git
