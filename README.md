@@ -42,6 +42,7 @@ npm start android
 ``` 
 ## ********************************************************
 ##  completed Installation on Windows by Kcod ,   above one it is okay to install on MacOS
+##  add 'sudo' all instructions if there are permission problems with MacOS
 
 git clone https://github.com/BlueWallet/BlueWallet.git  <br />
 cd BlueWallet. <br />
