@@ -46,7 +46,8 @@ npm start android
 
 git clone https://github.com/BlueWallet/BlueWallet.git  <br />
 cd BlueWallet. <br />
-npm install --force   <br />   
+npm install --force   <br />
+sudo chown -R youraccount folderName <br />
 react-native link     <br />
 "operating Android Studio and open an emulator"   // this mement doesn't have error when compilling android code <br />
 npm start android                                 // this one for Daemon <br />
